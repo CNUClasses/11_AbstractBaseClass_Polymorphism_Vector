@@ -3,7 +3,7 @@
 // Author      : 
 // Version     :
 // Copyright   : Steal this code!
-// Description : Hello World in C++, Ansi-style
+// Description : Hello World in C++, Ansi-style 
 //============================================================================
 
 #include <vector>
@@ -30,7 +30,7 @@ int main()
 
 //stuff a bunch of oil and water into the vector
 //refered to by BASE CLASS pointer only
-//(I guess they do mix...snort...chortle)
+//(I guess oil and water do mix...snort...chortle)
 void populate(vector<Liquid*> &myVector)
 {
 	for (int i = 0; i < HOW_MANY; i++)
